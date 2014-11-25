@@ -1,0 +1,44 @@
+{
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"AlignTab",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"BlockCursorEverywhere",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DashDoc",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"Inc-Dec-Value",
+		"jQuery",
+		"Liquid",
+		"MarkdownEditing",
+		"MoveTab",
+		"Open Finder",
+		"Predawn",
+		"Project Manager",
+		"Ruby Debugger",
+		"SCSS",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
+		"Table Editor",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"ToggleQuotes"
+	],
+	"repositories":
+	[
+		"https://github.com/ingshtrom/BlockCursorEverywhere",
+		"https://github.com/netpro2k/SublimeBlockCursor"
+	]
+}
