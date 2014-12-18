@@ -15,6 +15,11 @@
 		80,
 		120
 	],
+	"indent_guide_options":
+  [
+      // "draw_normal",
+      "draw_active"
+  ],
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
