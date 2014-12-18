@@ -6,13 +6,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"jQuery",
-		"Markdown",
-		"SublimeLinter",
-		"Better CoffeeScript",
-		"BeautifyRuby",
-		"SublimeCodeIntel",
-		"Color Highlighter"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
