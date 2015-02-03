@@ -35,5 +35,11 @@
   { "keys": ["k"], "command": "move", "args": {"by": "lines", "forward": false}, "context":
       [ {"key": "control", "operand": "sidebar_tree"} ] },
   { "keys": ["l"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
-      [ {"key": "control", "operand": "sidebar_tree"} ] }
+      [ {"key": "control", "operand": "sidebar_tree"} ] },
+
+  { "keys": ["ctrl+d"], "command": "vi_scroll_lines",
+    "args": {"forward": true},
+    "context": [{"key": "setting.command_mode"}, {"key": "setting.vintage_ctrl_keys"}]
+  }
+
 ]

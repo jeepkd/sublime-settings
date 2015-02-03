@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"3024 Color Scheme",
@@ -23,6 +31,7 @@
 		"MoveTab",
 		"Numix Theme",
 		"Open Finder",
+		"Package Control",
 		"Predawn",
 		"Project Manager",
 		"Ruby Debugger",
@@ -30,7 +39,6 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"Siteleaf Liquid Syntax",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
