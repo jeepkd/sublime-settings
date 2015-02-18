@@ -20,8 +20,13 @@
     "context": [{"key": "setting.vintage_ctrl_keys"}, {"key": "setting.command_mode"}]
   },
 
-  { "keys": ["super+ctrl+left"], "command": "move_tab", "args": { "position": "-1" } },
-  { "keys": ["super+ctrl+right"], "command": "move_tab", "args": { "position": "+1" } },
+  { "keys": ["<"], "command": "move_tab", "args": { "position": "-1" },
+    "context": [{"key": "setting.vintage_ctrl_keys"}, {"key": "setting.command_mode"}]
+  },
+
+  { "keys": [">"], "command": "move_tab", "args": { "position": "+1" },
+    "context": [{"key": "setting.vintage_ctrl_keys"}, {"key": "setting.command_mode"}]
+  },
 
   { "keys": ["super+ctrl+shift+left"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["super+ctrl+shift+right"], "command": "move_to_group", "args": { "group": 1 } },
