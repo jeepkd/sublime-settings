@@ -7,8 +7,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown"
+		"Markdown",
+		"InactivePanes"
 	],
+	"inactive_panes_dim_strength": 0.1,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"rulers":
@@ -22,6 +24,5 @@
 	"theme": "Numix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_start_in_command_mode": true,
-	"inactive_panes_dim_strength": 0.1
+	"vintage_start_in_command_mode": true
 }
