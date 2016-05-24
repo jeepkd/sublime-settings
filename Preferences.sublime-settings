@@ -7,8 +7,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"InactivePanes"
 	],
 	"inactive_panes_dim_strength": 0.1,
 	"line_padding_bottom": 1,
